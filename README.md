@@ -1,2 +1,2 @@
 # 502_Project
-just for code study
+just for code learning
